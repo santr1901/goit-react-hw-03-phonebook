@@ -1,0 +1,20 @@
+p {
+  margin: 0;
+}
+
+.contacts_list {
+  padding: 0;
+}
+.list_item {
+  display: flex;
+  justify-content: space-around;
+  list-style: square;
+  margin-bottom: 3px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.delete_btn {
+  border-radius: 5px;
+  background-color: transparent;
+}

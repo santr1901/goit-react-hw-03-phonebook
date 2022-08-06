@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form_input {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  margin-top: 5px;
+}
+
+.input_title {
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.add_contact_btn {
+  margin-top: 20px;
+  width: 100px;
+}
